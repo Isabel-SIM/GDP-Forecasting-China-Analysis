@@ -38,13 +38,13 @@ jupyter notebook
 
 ## Forecasting Methods
 
-# Naïve Method:
+_Naïve Method:_
 The Naïve Method forecasts future values based on the last observed value. It serves as a baseline model for comparison.
 
-# Seasonal Naive Method:
+_Seasonal Naive Method:_
 This method forecasts by repeating the last observed seasonal pattern. It is particularly useful for datasets with strong seasonal components.
 
-# Holt-Winters Method:
+_Holt-Winters Method:_
 A seasonal exponential smoothing technique that accounts for level, trend, and seasonality in the data. This method is suitable for datasets exhibiting growth trends and seasonal fluctuations.
 
 
